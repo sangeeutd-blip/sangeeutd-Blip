@@ -32,6 +32,14 @@
 - Created an interactive HR analytics dashboard using Power BI.
 - Organized workforce information into clear visual reports.
 - Practiced data visualization and dashboard design.
+- Student Feedback Management and Analysis System:
+A web-based application designed to collect, manage, and analyze student feedback to improve educational quality.
+Tech Stack: HTML | CSS | JavaScript | PHP | MySQL
+Project Highlights:
+Student feedback collection
+Feedback data management
+Feedback analysis and reporting
+
 
 ## 📈 GitHub Stats
 
