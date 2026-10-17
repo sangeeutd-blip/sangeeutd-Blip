@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Sangeetha K 👋
+ Sangeetha K 
 
 ### Aspiring Software Developer | B.Sc. Computer Science
 
